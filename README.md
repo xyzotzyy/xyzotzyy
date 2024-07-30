@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Yosafat Muasyawa</h1>
-<h3 align="center">I AM FROM INDONESIA</h3>
-<img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+# 💫 About Me:
+<br><br><br>🌱 I’m currently learning WebsiteDevelopent<br>⚡ Fun fact I 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyzotzyy&label=Profile%20views&color=0e75b6&style=flat" alt="xyzotzyy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyzotzyy" alt="xyzotzyy" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yssxzid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yozz1st) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xyzotzyy&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xyzotzyy&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzotzyy&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xyzotzyy&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning **WebsiteDevelopment**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 📫 How to reach me **xyzootzy68@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=xyzotzyy&icon=5&color=3)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/yssxzid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yssxzid" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
